@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Access Has Been Granted!! You are now ciphering through a coded diamond matrix. Cipher Complete! Welcome to Code-Diamond!!
 
-I'm glad you are here. I plan to talk about ...
+I am a Software and Mobile Applications Development Major enrolled at Independence University, going for my Bachelor's Degree.
+I've always had a passion for coding since the day I Layed eyes on a video game at the young age of 04. I have contributed yo alot of open source projects and even tweaked a few self owned projects as well. My mission is to become a software engineering woman of tech, and make a positive impact in the technology world. I am researching and working on creating a new programming language and catching the interests of all devevlopers, as well as users and companies. I am willing to collaborate with all loce to make a technology family of friends along the way. I strongly accept all crticism and always looking for ways to imrove my skills, so any mentors out there willing to guide a quick and patient learner I am here.
