@@ -1,15 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: What's Better Than A Woman In Tech With a Strong Passion For Code??!!
+author: Adella McNeil
+email: DiamondDev@codingmatrix.onmicrosoft.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ I will be updating my tech family on different projects I'm involved in and also would love to collaborate with any new comers
+ and experienced developers, as I am always down to learn new ways of doing things. I will also give indsights on my courses
+ I am taking at the moment and any new leads I get in getting new business opportunities to be able to start my mission in being
+ a great woman of tech.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: https://twitter.com/mcneil2862
+github_username:  https://github.com/Diamond-Dev33
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
